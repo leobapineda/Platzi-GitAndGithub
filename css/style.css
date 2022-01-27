@@ -12,3 +12,10 @@ body {
 .OwjStartOfStory {
     max-width: 20vw;
 }
+
+.FlexContainerTimeForFlexB {
+    display: flex;
+    color: dimgray;
+    background-color: gainsboro;
+    justify-content: space-evenly;
+}
