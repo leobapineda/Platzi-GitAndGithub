@@ -3,3 +3,8 @@ body {
     text-align: center;
     color: deeppink;
 }
+
+.startOfStoryColor {
+    color: deepskyblue;
+    text-align: left;
+}
