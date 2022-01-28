@@ -13,5 +13,8 @@ body {
     max-width: 20vw;
 }
 
-
+.container {
+    display: flex;
+    margin: 1px solid;
+}
 
