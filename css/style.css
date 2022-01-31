@@ -1,20 +1,32 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    color: deeppink;
+/* Positioning */
+/* Display & Box Model */
+/* Color */
+/* Text */
+/* Other */
+
+.FBContainer {
+  /* Display & Box Model */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex: 1;
+/* Color */
+
+  border: 2px solid rgb(0, 0, 0);
+ 
 }
 
-.startOfStoryColor {
-    color: deepskyblue;
-    text-align: left;
+.FlexElement {
+ display: flex;
+ justify-content: space-between;
+  gap: 20px;
 }
 
-.OwjStartOfStory {
-    max-width: 20vw;
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 0 10px;
 }
-
-.container {
-    display: flex;
-    margin: 1px solid;
-}
-
