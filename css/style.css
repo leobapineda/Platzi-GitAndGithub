@@ -4,7 +4,7 @@
 /* Text */
 /* Other */
 
-.FBContainer {
+.FBContainer.Header {
   /* Display & Box Model */
   display: flex;
   justify-content: space-around;
@@ -12,14 +12,14 @@
   flex: 1;
 /* Color */
 
-  border: 2px solid rgb(0, 0, 0);
+  border: 2px solid rgb(255, 0, 0);
  
 }
 
 .FlexElement {
  display: flex;
  justify-content: space-between;
-  gap: 20px;
+  gap: 20px; 
 }
 
 ul {
@@ -29,4 +29,8 @@ ul {
   gap: 10px;
   flex-wrap: wrap;
   padding: 0 10px;
+}
+
+.FBContainer.Body {
+  border: 2px solid blue;
 }
