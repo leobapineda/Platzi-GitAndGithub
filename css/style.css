@@ -1,0 +1,41 @@
+/* Positioning */
+/* Display & Box Model */
+/* Color */
+/* Text */
+/* Other */
+
+body {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.FBContainer.Header {
+  /* Display & Box Model */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex: 1;
+/* Color */
+
+  border: 2px solid rgb(13, 255, 0);
+ 
+}
+
+.FlexElement {
+ display: flex;
+ justify-content: space-between;
+  gap: 20px; 
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 0 10px;
+}
+
+.FBContainer.Body {
+  border: 2px solid blue;
+}
