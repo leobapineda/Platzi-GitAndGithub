@@ -4,6 +4,11 @@
 /* Text */
 /* Other */
 
+body {
+  font-family: Arial;
+  font-size: 20px;
+}
+
 .FBContainer.Header {
   /* Display & Box Model */
   display: flex;
