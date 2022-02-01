@@ -5,8 +5,11 @@
 /* Other */
 
 body {
+  display: flex;
+  flex-direction: column;
   font-family: Arial;
   font-size: 20px;
+  gap: 10px;
 }
 
 .FBContainer.Header {
@@ -15,27 +18,41 @@ body {
   justify-content: space-around;
   align-items: center;
   flex: 1;
-/* Color */
+  /* Color */
 
   border: 2px solid rgb(13, 255, 0);
- 
 }
 
 .FlexElement {
- display: flex;
- justify-content: space-between;
-  gap: 20px; 
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
 }
 
 ul {
   list-style: none;
   display: flex;
-  justify-content: space-between;
-  gap: 10px;
+  justify-content: flex-start;
   flex-wrap: wrap;
-  padding: 0 10px;
+  gap: 5px;
+}
+
+li {
+  border: 2px solid red;
+  padding-bottom: -20px;
 }
 
 .FBContainer.Body {
+  display: flex;
+  flex-direction: column;
   border: 2px solid blue;
+}
+
+.FBContainer.Footer {
+  /* Display & Box Model */
+  display: flex;
+  border: 2px solid grey;
+  justify-content: center;
+  /* Color */
+  background-color: cornsilk;
 }
