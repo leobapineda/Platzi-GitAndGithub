@@ -15,18 +15,22 @@ body {
 .FBContainer.Header {
   /* Display & Box Model */
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-start;
   flex: 1;
   /* Color */
-
   border: 2px solid rgb(13, 255, 0);
 }
 
 .FlexElement {
   display: flex;
-  justify-content: space-between;
-  gap: 20px;
+  align-items: center;
+  gap: 10px;
+  
+}
+
+.h1 {
+  font-size: 30px;
 }
 
 ul {
@@ -46,6 +50,11 @@ li {
   display: flex;
   flex-direction: column;
   border: 2px solid blue;
+}
+
+img {
+  max-width: 400px;
+  align-self: center;
 }
 
 .FBContainer.Footer {
