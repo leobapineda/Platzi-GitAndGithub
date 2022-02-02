@@ -1,12 +1,4 @@
 nada que ver aqui
 asi que siempre si quieres verlo...
-<<<<<<< HEAD
-
 cambio 1 huuuuuuuuuy, se me supper olvido mover esto una mega disculpa, pero ya estuvo
-
-
 bien pero no digas que no lo adverti
-=======
-bien pero no digas que no lo adverti
-cambioMain1 Tambien debimos poner este archivo
->>>>>>> main
