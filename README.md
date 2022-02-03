@@ -9,4 +9,12 @@ Este es un repositorio cuya unica funcion es usar los conocimineto del curso de 
 :grinning: :smiley:  :satisfied: :slightly_smiling_face: :kissing_closed_eyes: :zany_face: :smirk: :face_with_head_bandage: :nauseated_face: 
 :cowboy_hat_face: :monocle_face: :open_mouth: :imp: :skull_and_crossbones: :robot: 
 
+<<<<<<< HEAD
 Gracias por leer, ahora ve y dile a tu mamá que la amas <3 
+=======
+Gracias por leer, ahora ve y dile a tu mamá que la amas <3 
+
+Prueba git cherry-pick 1
+
+Prueba git cherry-pick 2
+>>>>>>> 8187649 (prueba git cherry-pick 2)
