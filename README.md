@@ -12,3 +12,5 @@ Este es un repositorio cuya unica funcion es usar los conocimineto del curso de 
 Gracias por leer, ahora ve y dile a tu mamá que la amas <3 
 
 Prueba git cherry-pick 1
+
+Prueba git cherry-pick 2
