@@ -10,11 +10,3 @@ Este es un repositorio cuya unica funcion es usar los conocimineto del curso de 
 :cowboy_hat_face: :monocle_face: :open_mouth: :imp: :skull_and_crossbones: :robot: 
 
 Gracias por leer, ahora ve y dile a tu mamá que la amas <3 
-
-Prueba git cherry-pick 1
-
-Prueba git cherry-pick 2
-
-Prueba git cherry-pick 3
-
-Prueba git cherry-pick 4
